@@ -70,7 +70,7 @@ This project demonstrates basic Java Swing components and real-time updates usin
 
 ## Screenshots
 
-![Digital Clock Screenshot](screenshots/digital_clock.png)
+![Digital Clock Screenshot](clock.png)
 
 ## Contributing
 
